@@ -12,3 +12,5 @@ Ultima volta, ultima sofferenza!
 Qui, ora, conflitto
 
 L'ultima volta, l'ultima di tipo fast-forward
+
+Adesso ti faccio vedere come si effettua prima il merge!
