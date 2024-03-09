@@ -13,6 +13,7 @@ Qui, ora, conflitto
 Buongiorno!
 Buonasera!
 Buona dormita!
+Buonanotte!
 
 L'ultima volta, l'ultima di tipo fast-forward
 
