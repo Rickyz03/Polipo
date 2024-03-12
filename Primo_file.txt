@@ -1,24 +1,5 @@
 cappello
 
-Provo a scrivere qualcosa di intelligente
-ffffff
-gbbg
-
-
-Io sì che faccio interferenza!
-
-Verifico se le verifiche fatte adesso sono anche nel main! Noooo! Sono presenti anche sul main!
-
-E adesso voglio vedere come me la accetti questa!
-
-Qui, ora, conflitto
-Buongiorno!
-Buonasera!
-Buona dormita!
-Buonanotte!
-
-L'ultima volta, l'ultima di tipo fast-forward
-
-Adesso ti faccio vedere come si effettua prima il merge!
+Polipo
 
 Occhiali
