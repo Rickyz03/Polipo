@@ -19,3 +19,5 @@ Vedo se fa da solo one
 
 
 Posso modificare tranquillo, ancora
+
+Aggiungo una modifica che mi permetterà di chiudere una issue
